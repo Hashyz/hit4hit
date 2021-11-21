@@ -1,5 +1,5 @@
-# hit4hit
-#auto battle hit4hit
+hit4hit
+auto battle hit4hit
 
 pip install -r requirements.txt
 
